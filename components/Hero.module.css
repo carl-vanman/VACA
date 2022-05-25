@@ -1,0 +1,26 @@
+.wrapper {
+    position: relative;
+    z-index: 1;
+    background-color: rgb(123, 123, 123);
+}
+
+.bgImageContainer {
+    position: relative;
+    width: 100vw;
+}
+
+.bgImageContainer img {
+    object-fit: cover;
+    object-position: right 50% bottom 38%;
+    filter: brightness(0.75);
+    z-index: -1;
+}
+
+.captionContainer {
+    padding: 10rem 1.2rem;
+    display: grid;
+    justify-items: center;
+    gap: clamp(1rem, 2vw, 2.5rem);
+
+    text-align: center;
+}

@@ -1,0 +1,51 @@
+[
+    {
+        "title": "Radiance Cream",
+        "description": "A powerful Superblend of wheat-based Hyaluronic Acid to plump and Vitamin C to help firm, tighten, smooth and improve skin appearance.",
+        "price": 89,
+        "image": "/images/image-5.jpg",
+        "imageCaption": ""
+    },
+    {
+        "title": "Radiance Serum",
+        "description": "A powerful Superblend of wheat-based Hyaluronic Acid to plump and Vitamin C to help firm, tighten, smooth and improve skin appearance.",
+        "price": 99,
+        "image": "/images/image-4.jpg",
+        "imageCaption": ""
+    },
+    {
+        "title": "Radiance Serum",
+        "description": "A powerful Superblend of wheat-based Hyaluronic Acid to plump and Vitamin C to help firm, tighten, smooth and improve skin appearance.",
+        "price": 149,
+        "image": "/images/image-1.jpg",
+        "imageCaption": "A plumping 2% Hyaluronic Acid complex with Vitamin C to help hydrate and brighten tired-looking skin."
+    },
+    {
+        "title": "Radiance Serum",
+        "description": "A powerful Superblend of wheat-based Hyaluronic Acid to plump and Vitamin C to help firm, tighten, smooth and improve skin appearance.",
+        "price": 149,
+        "image": "/images/image-3.jpg",
+        "imageCaption": ""
+    },
+    {
+        "title": "Radiance Serum",
+        "description": "A powerful Superblend of wheat-based Hyaluronic Acid to plump and Vitamin C to help firm, tighten, smooth and improve skin appearance.",
+        "price": 129,
+        "image": "/images/image-3.jpg",
+        "imageCaption": ""
+    },
+    {
+        "title": "Radiance Serum",
+        "description": "A powerful Superblend of wheat-based Hyaluronic Acid to plump and Vitamin C to help firm, tighten, smooth and improve skin appearance.",
+        "price": 79,
+        "image": "/images/image-4.jpg",
+        "imageCaption": ""
+    },
+    {
+        "title": "Radiance Serum",
+        "description": "A powerful Superblend of wheat-based Hyaluronic Acid to plump and Vitamin C to help firm, tighten, smooth and improve skin appearance.",
+        "price": 149,
+        "image": "/images/image-1.jpg",
+        "imageCaption": "A plumping 2% Hyaluronic Acid complex with Vitamin C to help hydrate and brighten tired-looking skin."
+    }
+]

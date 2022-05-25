@@ -1,0 +1,28 @@
+.productCard {
+    max-width: 500px;
+    display: grid;
+    gap: 1rem;
+}
+
+.imageContainer {
+    height: 450px;
+    position: relative;
+}
+
+.imageContainer img {
+    filter: brightness(0.75);
+    z-index: 1;
+}
+
+.imageContainer img.imgDarker {
+    filter: brightness(0.5);
+}
+
+.imgCaption {
+    position: absolute;
+    bottom: 1rem;
+    left: 1rem;
+    z-index: 3;
+
+    width: 60%;
+}

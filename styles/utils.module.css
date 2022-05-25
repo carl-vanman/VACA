@@ -1,0 +1,29 @@
+.headingXl {
+    font-size: clamp(1.5rem, 3vw, 3rem);
+    font-weight: 600;
+    color: var(--clr-dark);
+}
+
+.headingLg {
+    font-size: clamp(1rem, 2vw, 2.25rem);
+    font-weight: 600;
+    max-width: 38ch;
+}
+
+.headingMd {
+    font-size: clamp(1.2rem, 2vw, 1.75rem);
+    font-weight: 600;
+}
+
+.body {
+    font-size: clamp(1rem, 2vw, 1.5rem);
+    font-weight: 500;
+}
+
+.clrLight {
+    color: var(--text-clr-light);
+}
+
+.noItalic {
+    font-style: normal;
+}
