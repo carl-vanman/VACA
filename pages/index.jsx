@@ -1,10 +1,10 @@
 import styles from "../styles/Home.module.css";
 
-import HeroTop from "../components/HeroTop";
-import SegmentBarTop from "../components/SegmentBarTop";
-import FilterableProductTable from "../components/FilterableProductTable";
-import HeroBottom from "../components/HeroBottom";
-import SegmentBarBottom from "../components/SegmentBarBottom";
+import HeroTop from "../components/heros/HeroTop";
+import HeaderBar from "../components/header/HeaderBar";
+import FilterableProductTable from "../components/products/FilterableProductTable";
+import HeroBottom from "../components/heros/HeroBottom";
+import FooterBar from "../components/footer/FooterBar";
 
 import Head from "next/head";
 
@@ -16,7 +16,7 @@ export default function Home() {
                 <meta name="description" content="VACA by Kreaktionsbyrån" />
             </Head>
             <header>
-                <SegmentBarTop />
+                <HeaderBar />
             </header>
             <main className={styles.main}>
                 <HeroTop />
@@ -24,7 +24,7 @@ export default function Home() {
                 <HeroBottom />
             </main>
             <footer>
-                <SegmentBarBottom />
+                <FooterBar />
             </footer>
         </div>
     );

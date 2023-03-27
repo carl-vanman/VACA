@@ -1,5 +1,5 @@
 import styles from "./Hero.module.css";
-import utilStyles from "../styles/utils.module.css";
+import utilStyles from "../../styles/utils.module.css";
 
 import Image from "next/image";
 

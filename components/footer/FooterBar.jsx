@@ -1,9 +1,9 @@
-import styles from "./SegmentBarBottom.module.css";
-import utilStyles from "../styles/utils.module.css";
+import styles from "./FooterBar.module.css";
+import utilStyles from "../../styles/utils.module.css";
 
 import Image from "next/image";
 
-const BottomBar = () => {
+const FooterBar = () => {
     return (
         <section className={`${styles.wrapper}`}>
             <Image src="/images/vaca-logo.svg" height={24} width={80} />
@@ -22,4 +22,4 @@ const BottomBar = () => {
     );
 };
 
-export default BottomBar;
+export default FooterBar;

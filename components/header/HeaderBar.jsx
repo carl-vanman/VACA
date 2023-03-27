@@ -1,8 +1,8 @@
-import styles from "./SegmentBarTop.module.css";
+import styles from "./HeaderBar.module.css";
 
 import Image from "next/image";
 
-const TopBar = () => {
+const HeaderBar = () => {
     return (
         <section className={styles.wrapper}>
             <Image
@@ -15,4 +15,4 @@ const TopBar = () => {
     );
 };
 
-export default TopBar;
+export default HeaderBar;

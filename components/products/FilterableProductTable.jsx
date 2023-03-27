@@ -2,14 +2,14 @@ import { useState } from "react";
 import useSwr from "swr";
 
 import styles from "./FilterableProductTable.module.css";
-import utilStyles from "../styles/utils.module.css";
+import utilStyles from "../../styles/utils.module.css";
 
-import ButtonContained from "./ButtonContained";
+import ButtonContained from "../buttons/ButtonContained";
 import ProductTable from "./ProductTable";
 import ProductCard from "./ProductCard";
 
 // Helperfunction for sort
-import { helperFunction } from "../helperFunctions";
+import { helperFunction } from "../../helperFunctions";
 
 // Fetch function
 const fetcher = (url) => fetch(url).then((res) => res.json());
@@ -33,7 +33,6 @@ const FilterableProductTable = () => {
         }
     }
 
-    //React component composition
     const productTable = (
         <ProductTable>
             {data?.slice(0, perPage).map((product) => {
