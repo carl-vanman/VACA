@@ -1,33 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Hallå där, 
 
-## Getting Started
+Compileit är ett mindre bolag som är grundat av två utvecklare, sök efter Jonathan Ortheden och Isak Utegård på Linkedin om du är nyfiken på vilka de är. Vi söker nu efter en duktig utvecklare som vill vara en tidig grundsten i vårt växande utvecklingsteam.
 
-`First Clone the repo`
+Vi bygger bl.a flera av Ica, Barncancerfonden och Bokadirekts digitala tjänster. Vi ställs dagligen inför nya problem som jag tror kan vara utmanande för någon med din bakgrund. 
 
-Then, run:
+Skulle du vara intresserad av att ta ett samtal nästa vecka med Isak (CTO & grundare)?
 
-```bash
-npm install
-```
-
-To run the development server:
-
-```bash
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-## Functions
-
-You're able to sort products by price.
-
--   Click Price btn to switch between ASC and DESC
-
-You can View more products
-
--   Click View more btn to load more product. ( Btn disappears if there're no more products to view )
-
-## Features to come
-
--   Sort products by Newest
+Allt gott, Victoria Norling
+Victoria.norling@compileit.com
